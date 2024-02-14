@@ -1,0 +1,17 @@
+<html>
+    <body style="background-color: rgb(207, 201, 194);">
+    <table border="1">
+        <tr><th>S.no</th><th>RegNo</th><th>Name</th><th>Address</th><th>MobileNo</th></tr>
+        <tr><td>1</td><td>22K61A1228</td><td>Harika</td><td>Kadimpadu</td><td>7386966785</td></tr>
+        <tr><td>2</td><td>22K61A1233</td><td>Lakshmi</td><td>Vegavaram</td><td>9386966785</td></tr>
+        <tr><td>3</td><td>22K61A1227</td><td>Yesaswi</td><td>Rajamundri</td><td>6386966785</td></tr>
+        <tr><td>4</td><td>22K61A1216</td><td>sushma</td><td>Tanuku</td><td>7388866785</td></tr>
+        <tr><td>5</td><td>22K61A1206</td><td>Thulasi</td><td>vadali</td><td>9586966785</td></tr>
+        <tr><td>6</td><td>22K61A1258</td><td>Anu</td><td>Palakollu</td><td>7386966785</td></tr>
+        <tr><td>7</td><td>22K61A1252</td><td>Vasu</td><td>palakollu</td><td>7386966785</td></tr>
+        <tr><td>8</td><td>22K61A1249</td><td>Ramya</td><td>Kadimpadu</td><td>7386966785</td></tr>
+        <tr><td>9</td><td>22K61A1222</td><td>Sirisha</td><td>Tanuku</td><td>7386966785</td></tr>
+        <tr><td>10</td><td>22K61A1204</td><td>Aswitha</td><td>Ravulapalem</td><td>7386966785</td></tr>
+    </table>
+    </body>
+</html>
